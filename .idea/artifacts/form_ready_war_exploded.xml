@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="form_ready:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/form_ready_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="form_ready" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="form_ready/web/Web" />
+    </root>
+  </artifact>
+</component>
